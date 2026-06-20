@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  Aziz is my name<br>I'm a... Software Developer! Mainly on Java</h1>
+<h1 align="left">Hey 👋  Aziz is my name<br>I'm a... Software Developer!</h1>
 
 ###
 
